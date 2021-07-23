@@ -1,4 +1,4 @@
-### Hi there 👋 I am Joseph Emmanuel!
+### Hi there 👋 I am Joe!
 
 <!--
 **dnjoe96/dnjoe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
