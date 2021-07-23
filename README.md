@@ -26,3 +26,6 @@ I'm a marvel, DC, fast n furious fan, to state a few.
 
 ### Super powers?
 yeaaaaah... Flying!
+
+[Twitter](https://twitter.com/JosephBlue1)
+[LinkedIn](https://www.linkedin.com/in/joseph-emmanuel-i/)
