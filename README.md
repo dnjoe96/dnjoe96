@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
-Currently working on personal projects on DevOps, and enrolled as a Software Engineering Intern at ALX. 
+Currently working on personal projects on DevOps, and enrolled in ALX Software Engineering program. 
 
 ### Other Interests?
 I love history, especially ones related to WW2. I believe that that was the most signicant event in the past century, and pretty much everything happening today or that has happened before now, and advancement in science and tech can be linked to that event.
