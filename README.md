@@ -1,12 +1,17 @@
 ### Hi there 👋 I am Joe!
 
-**dnjoe96/dnjoe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: WobblyWas](https://img.shields.io/twitter/follow/JosephBlue1?style=social)](https://twitter.com/JosephBlue1)
+[![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-Emmanuel-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-emmanuel-i/)](https://www.linkedin.com/in/joseph-emmanuel-i/)
+[![GitHub Emmanuel](https://img.shields.io/github/followers/dnjoe96?label=follow&style=social)](https://github.com/dnjoe96)
 
-Here are some ideas to get you started:
-
-### About me
+## About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
-Currently working on personal projects on DevOps, and enrolled in ALX Software Engineering program. 
+Currently working on personal projects on DevOps, and enrolled in ALX Software Engineering program.
+
+- I’m currently learning Software engineering at ALX 🤣
+- I’m looking to collaborate with young African Leaders inspired by Fred Swaniker
+- 2021 - 2022 Goals: Learn the 21st Century Skills like coding in a variety of languages
+- Fun fact: I love listening to Kenyan Sauti Sol and Sol generation music
 
 ### Other Interests?
 I love history, especially ones related to WW2. I believe that that was the most signicant event in the past century, and pretty much everything happening today or that has happened before now, and advancement in science and tech can be linked to that event.
@@ -15,20 +20,6 @@ I'm a marvel, DC, fast n furious fan, to state a few.
 
 ### Super powers?
 yeaaaaah... Flying!
-
-[Twitter](https://twitter.com/JosephBlue1)
-[LinkedIn](https://www.linkedin.com/in
-
-[![Twitter: WobblyWas](https://img.shields.io/twitter/follow/JosephBlue1?style=social)](https://twitter.com/JosephBlue1)
-[![Linkedin: ahmed-belhaj](https://img.shields.io/badge/-Emmanuel-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-emmanuel-i/)](https://www.linkedin.com/in/joseph-emmanuel-i/)
-[![GitHub Emmanuel](https://img.shields.io/github/followers/Emmanuel-Munubi?label=follow&style=social)](https://github.com/Emmanuel-Munubi)
-
-## I'm a Student, African Futurist, Young Kenyan, and Young ALX Leader!!
-
-- 🌱 I’m currently learning Software engineering at ALX 🤣
-- 👯 I’m looking to collaborate with young African Leaders inspired by Fred Swaniker
-- 🥅 2021 - 2022 Goals: Learn the 21st Century Skills like coding in a variety of languages
-- ⚡ Fun fact: I love listening to Kenyan Sauti Sol and Sol generation music
 
 ### Languages 💻 🌐
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
