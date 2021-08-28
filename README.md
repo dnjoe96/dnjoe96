@@ -23,15 +23,15 @@ yeaaaaah... Flying!
 
 ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-python-fff?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![bash](https://img.shields.io/badge/-bash-000?&logo=bash)
+![C](https://img.shields.io/badge/-C-fff?&logo=C)
+![bash](https://img.shields.io/badge/-bash-fff?&logo=bash)
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  -->
 <!-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3) -->
 
 ### Technologies and Tool ⚙️ 🖥
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=FCC624)
 
 
 <a href="https://github.com/dnjoe96">
