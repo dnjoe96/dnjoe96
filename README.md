@@ -7,8 +7,8 @@
 ### About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
 Currently working on personal projects on DevOps, and enrolled in ALX Software Engineering program.
-
-- I’m currently learning Software engineering at ALX 🤣
+<!-- 
+- I’m currently learning Software engineering at ALX 🤣 -->
 - I’m am enthusiatic about joining the DevOps community
 - I am an Iron man fan
 - Fun fact: My favourite super power is teleportation :)
