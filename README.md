@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Joe!
 
 [![Twitter: JosephBlue1](https://img.shields.io/twitter/follow/JosephBlue1?style=social)](https://twitter.com/JosephBlue1)
-[![Linkedin: Joseph Emmanuel](https://img.shields.io/badge/joe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-emmanuel-i/)](https://www.linkedin.com/in/joseph-emmanuel-i/)
+[![Linkedin: Joseph Emmanuel](https://img.shields.io/badge/Joseph-Emmanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-emmanuel-i/)](https://www.linkedin.com/in/joseph-emmanuel-i/)
 
 ### About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
