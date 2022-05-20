@@ -5,7 +5,7 @@
 
 ### About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
-Currently working on personal projects on DevOps and Software Development
+Currently taking a project-based approach to master problem solving as a Software Engineer
 - I’m am enthusiatic about joining the DevOps community
 - I am an Iron man fan
 - Fun fact: My favourite super power is teleportation :)
