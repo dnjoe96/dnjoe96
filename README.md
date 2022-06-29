@@ -73,8 +73,8 @@ I love history, especially ones related to WW2. I believe that that was the most
  -->
 ----
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=dnjoe96&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
-| [<img src="https://github-readme-stats.vercel.app/api?username=dnjoe96&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/dnjoe96/github-readme-stats) | 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnjoe96&theme=dark)](https://github.com/dnjoe96/github-readme-streak-stats) |
+[<img src="https://github-readme-stats.vercel.app/api?username=dnjoe96&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/dnjoe96/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnjoe96&theme=dark)](https://github.com/dnjoe96/github-readme-streak-stats)
 [![Joseph's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/dnjoe96/github-readme-stats)
 
 
