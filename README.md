@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Joe!
 
-[![Twitter: JosephBlue1](https://img.shields.io/twitter/follow/JosephBlue1?style=social)](https://twitter.com/JosephBlue1)
-[![Linkedin: Joseph Emmanuel](https://img.shields.io/badge/Joseph-Emmanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-emmanuel-i/)](https://www.linkedin.com/in/joseph-emmanuel-i/)
-
 ### About me
 I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
 Currently taking a project-based approach to master problem solving as a Software Engineer
@@ -13,19 +10,19 @@ Currently taking a project-based approach to master problem solving as a Softwar
 ### Other Interests?
 I love history, especially ones related to WW2. I believe that that was the most signicant event in the past century, and pretty much everything happening today or that has happened before now, and advancement in science and tech can be linked to that event.
 
-### Languages 💻 🌐
+<!-- ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-python-fff?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-fff?&logo=C)
 ![bash](https://img.shields.io/badge/-bash-fff?&logo=bash)
 ![javascript](https://img.shields.io/badge/-javascript-fff?&logo=javascript)
-![nodejs](https://img.shields.io/badge/-node-fff?&logo=node)
+![nodejs](https://img.shields.io/badge/-node-fff?&logo=node) -->
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/></a>
 
 ## Skills:
 
-#### Languages:
+#### Languages 💻 🌐:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -73,13 +70,13 @@ I love history, especially ones related to WW2. I believe that that was the most
 | <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dnjoe96&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joseph's github stats" /></a> | <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- 
+
 ----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[<img src="https://github-profile-trophy.vercel.app/?username=dnjoe96&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=dnjoe96&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/dnjoe96/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnjoe96&theme=dark)](https://github.com/dnjoe96/github-readme-streak-stats)
+[![Joseph's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/dnjoe96/github-readme-stats)
+
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
