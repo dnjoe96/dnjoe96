@@ -67,10 +67,10 @@ I love history, especially ones related to WW2. I believe that that was the most
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@donjoedbest)
 </p>
 
-| <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dnjoe96&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joseph's github stats" /></a> | <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- | <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dnjoe96&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joseph's github stats" /></a> | <a href="https://github.com/dnjoe96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+ -->
 ----
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=dnjoe96&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
 [<img src="https://github-readme-stats.vercel.app/api?username=dnjoe96&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/dnjoe96/github-readme-stats)
