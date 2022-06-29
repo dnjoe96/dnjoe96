@@ -61,7 +61,7 @@ I love history, especially ones related to WW2. I believe that that was the most
 
 <p align = "center">
 
-<!--[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)-->
+<!-- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io) -->
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/JosephBlue1) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/joseph-emmanuel-i/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@donjoedbest)
@@ -72,7 +72,7 @@ I love history, especially ones related to WW2. I believe that that was the most
 
 
 ----
-[<img src="https://github-profile-trophy.vercel.app/?username=dnjoe96&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [<img src="https://github-profile-trophy.vercel.app/?username=dnjoe96&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
 [<img src="https://github-readme-stats.vercel.app/api?username=dnjoe96&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/dnjoe96/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnjoe96&theme=dark)](https://github.com/dnjoe96/github-readme-streak-stats)
 [![Joseph's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjoe96&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/dnjoe96/github-readme-stats)
