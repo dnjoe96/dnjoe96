@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Joe!
 
 ### About me
-I am really passionate about solving problems. This can be expanded to technical and non-technical, personal or business. 
-Currently taking a project-based approach to master problem solving as a Software Engineer
-- I’m am enthusiatic about joining the DevOps community
+I am very inquisitive and always know love to know how things work, and why they exist. I fancy having an understanding of a broad range of fields and ideas. I love to solve programs and build things -  this is natural for someone who likes to understand how things work and seeks to apply that knowledge. While I fancy the allures of the Front-End of web technology, I am more into the backend - from code to API interface to Database and deployment platform.
+
+- I’m am enthusiatic joining cloud communities 
 - I am an Iron man fan
 - Fun fact: My favourite super power is teleportation :)
 
@@ -39,7 +39,6 @@ I love history, especially ones related to WW2. I believe that that was the most
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
 #### IDEs
 
