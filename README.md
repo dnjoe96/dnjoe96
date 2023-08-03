@@ -28,6 +28,7 @@ I love history, especially ones related to WW2. I believe that that was the most
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=C#&logoColor=black)&nbsp;
 
 #### Database
 
